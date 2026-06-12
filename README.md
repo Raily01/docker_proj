@@ -1,2 +1,2 @@
 # docker_proj
-some description
+типа магазин товаров
